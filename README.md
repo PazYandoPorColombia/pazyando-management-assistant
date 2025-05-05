@@ -1,1 +1,3 @@
-# pazyando-management-assistant
+# PazYando Management Assistant
+
+Primer módulo: CRM + Cotizador.
